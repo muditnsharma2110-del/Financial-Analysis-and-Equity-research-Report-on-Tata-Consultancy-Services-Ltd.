@@ -1,2 +1,2 @@
-Equity-Research-and Valuation Report-on-Tata-Consultancy-Services-LTD.
+
 Built an end-to-end equity research and valuation model on Tata Consultancy Services covering historical financial analysis, ratio analysis, peer benchmarking, FCFF forecasting, DCF valuation, and comparable company analysis; assessed TCS as a high-quality business with strong profitability and return ratios, but concluded a Hold recommendation as DCF implied value (₹2,267/share) was below market price (₹2,434/share).
